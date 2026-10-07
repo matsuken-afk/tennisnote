@@ -1,0 +1,18 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif;background:#0B120E;color:#F3F8F3;
+     min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:40px 20px}
+.container{max-width:640px;width:100%}
+.header{text-align:center;margin-bottom:36px}
+.icon{width:72px;height:72px;border-radius:16px;margin-bottom:14px}
+h1{font-size:26px;font-weight:800;margin-bottom:6px}
+.subtitle{color:#9CAC9F;font-size:14px}
+.card{background:#151F19;border:1px solid #2B3B31;border-radius:16px;padding:22px 22px;margin-bottom:18px}
+.card h2{font-size:17px;font-weight:700;margin-bottom:10px;color:#E4FF57}
+.card p,.card li{font-size:15px;line-height:1.8;color:#C9D5CC}
+.card ul{padding-left:20px}
+.card li{margin-bottom:8px}
+.card b{color:#F3F8F3}
+.contact-btn{display:block;background:#E4FF57;color:#17210F;text-decoration:none;text-align:center;font-weight:800;
+             font-size:16px;padding:14px 24px;border-radius:12px;margin-top:12px}
+.footer{text-align:center;color:#6E7D73;font-size:13px;margin-top:32px}
+.footer a{color:#9CAC9F}
